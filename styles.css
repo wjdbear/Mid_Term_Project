@@ -71,15 +71,8 @@ nav ul li a {
     font-size: 24px;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
-}
-
-.video {
-    margin: 20px 0;
+.travel-section {
+    margin: 40px 0;
 }
 
 video {
@@ -88,6 +81,14 @@ video {
     height: auto;
     border: 1px solid #ddd;
     border-radius: 10px;
+    margin: 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
 }
 
 @media (max-width: 768px) {
